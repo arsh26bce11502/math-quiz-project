@@ -56,10 +56,10 @@ math-quiz-project/
 cd math-quiz-project
    ```
 
-2. **Run the program**
-   ```bash
+
+2.
    python main.py
-   ```
+   
    (On some systems, use `python3 main.py` instead)
 
 3. **Follow the on-screen prompts**
