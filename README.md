@@ -53,7 +53,7 @@ math-quiz-project/
 1. **Clone the repository**
    ```bash
    git clone https://github.com/arsh26bce11502/math-quiz-project.git
-cd math-quiz-project
+   cd math-quiz-project
    ```
 
 2. **Run the program**
@@ -96,5 +96,5 @@ selection, a question being answered, and the final score screen)._
 
 ## Author
 
-Built by ARSH GUPTA, 1st Year, VIT Bhopal — as part of the Python Essentials
-evaluated course project.
+Built by Arsh Gupta (Reg. No. 26BCE11502), 1st Year, VIT Bhopal — as part of
+the Python Essentials evaluated course project.
