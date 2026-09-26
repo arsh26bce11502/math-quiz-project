@@ -16,7 +16,6 @@ score out of 5 is displayed at the end.
 
 ## Features
 
-
 - Personalized welcome using the user's name
 - Menu-driven topic selection (Addition / Subtraction / Multiplication / Division)
 - 5 multiple-choice questions per topic, each with 4 options (a, b, c, d)
@@ -59,7 +58,7 @@ cd math-quiz-project
 
 2. **Run the program**
    ```bash
-    python main.py
+   python main.py
    ```
    (On some systems, use `python3 main.py` instead)
 
