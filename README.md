@@ -59,7 +59,7 @@ cd math-quiz-project
 
 2. **Run the program**
    ```bash
-   python main.py
+    python main.py
    ```
    (On some systems, use `python3 main.py` instead)
 
