@@ -57,9 +57,9 @@ cd math-quiz-project
    ```
 
 2. **Run the program**
-   
+   ```bash
    python main.py
-  
+   ```
    (On some systems, use `python3 main.py` instead)
 
 3. **Follow the on-screen prompts**
