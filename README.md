@@ -53,8 +53,8 @@ math-quiz-project/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/{your-username}/{your-repo-name}
-   cd {your-repo-name}
+   git clone https://github.com/arsh26bce11502/math-quiz-project.git
+cd math-quiz-project
    ```
 
 2. **Run the program**
