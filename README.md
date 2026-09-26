@@ -96,5 +96,5 @@ selection, a question being answered, and the final score screen)._
 
 ## Author
 
-Built by [Your Name], 1st Year, VIT Bhopal — as part of the Python Essentials
+Built by ARSH GUPTA, 1st Year, VIT Bhopal — as part of the Python Essentials
 evaluated course project.
