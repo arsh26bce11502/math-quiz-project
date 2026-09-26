@@ -1,4 +1,4 @@
-# Math Quiz Game (Python CLI Project)
+# Math Quiz Game (Python CLI Project )
 
 A simple command-line quiz application built in Python that tests the user's
 arithmetic skills across four topics: **Addition, Subtraction, Multiplication,
